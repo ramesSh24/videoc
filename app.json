@@ -8,9 +8,9 @@
         "compressor",
         "bot"
     ],
-    "repository": "https://github.com/likucs/VideoConvertor",
+    "repository": "https://github.com/ramesSh24/videoc",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/persbott",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
